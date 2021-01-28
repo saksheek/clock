@@ -116,8 +116,5 @@ footer{
  @media (max-width:1028px){
  .container{
     margin:60% 30% 60% 30%;
-   position:relative;
-   top:-200;
-   left:-200;
   }
 } 
