@@ -22,6 +22,7 @@ h1{
   width:350px;
   margin: 6% 35%;
  border-radius: 10%;
+  border: 2px solid black;
  position: absolute;
  background-color: white;
 }
@@ -112,8 +113,10 @@ footer{
   left:22%;
 }
 
-/* @media (max-width:1028px){
-  .container{
-  margin: 63% 33%;
+ @media (max-width:1028px){
+ .container{
+    margin-top: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
   }
-} */
+} 
